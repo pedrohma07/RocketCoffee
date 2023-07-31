@@ -45,6 +45,8 @@ Version Control: Project code will be managed using Git and hosted on GitHub for
 <img src="./public//result/Tablet.png" />
 <p>Iphone XR (414px x 896px)</p>
 <img src="./public//result/IphoneXR.png" />
+<p>Iphone XR - Menu open (414px x 896px)</p>
+<img src="./public//result/xr_menu.png" />
 
 ### 
 

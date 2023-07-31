@@ -4,4 +4,7 @@
 
 body{
   height: 100vh;
+  background-image:url('/assets/blur-1.png'), url('/assets/blur-2.png');
+  background-repeat: no-repeat;
+  background-position: left bottom, top right;
 }

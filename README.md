@@ -1,6 +1,6 @@
 # ROCKETSEAT - RocketCoffee
 
-This is a solution to the [RocketCoffee on RocketSeat]([Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://efficient-sloth-d85.notion.site/Desafio-RocketCoffee-7802895f0dd44da5a6f71a64badc7e72)).
+This is a solution to the [RocketCoffee on RocketSeat](https://efficient-sloth-d85.notion.site/Desafio-RocketCoffee-7802895f0dd44da5a6f71a64badc7e72)).
 
 ## Table of contents
 

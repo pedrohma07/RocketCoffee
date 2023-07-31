@@ -1,6 +1,7 @@
 import './style.sass'
 import './responsive.css'
 import { useState, useEffect } from 'react';
+import MenuMobile from '../../components/menuMobile'
 
 const Index = () => {
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);
@@ -24,7 +25,7 @@ const Index = () => {
       <header className='container w-full bg-transparent h-12 flex justify-between items-center'>
         <div className='div-logo'>
           <img src="/assets/logo-desktop.svg" alt="" />
-          {windowWidth <= 430 ? (<img src="/assets/rocketseat.svg" alt="" />) : (<></>)}
+          {windowWidth <= 430 ? (<div> <img src="/assets/rocketseat.svg" alt="" /> <MenuMobile /> </div> ) : (<></>)}
         </div>
         
         <nav className='navbar flex justify-between'>

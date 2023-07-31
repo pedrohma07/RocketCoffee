@@ -33,10 +33,6 @@ Version Control: Project code will be managed using Git and hosted on GitHub for
 
 ### Screenshot
 
-```
-![Logo do Markdown](img/markdown.png)
-```
-
 <p>Full HD (1920px x 1080px)</p>
 <img src="./public//result/Full_HD.png" />
 <p>HD (1280px x 720px)</p>
